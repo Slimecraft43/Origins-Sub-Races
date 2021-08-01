@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"origins:throw_ender_pearl",
+		"origins:water_vulnerability",
+		"origins:pumpkin_hate",
+		"origins:extra_reach",
+		"origins:ender_particles",
+		"origins:damage_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:ender_pearl"
+	},
+  "loading_priority": 2,
+	"order": 1,
+	"impact": 2
+  "name": "Enderian"
+  "description": "The ideal soldier created by the Ender Dragon, Enderians are capable of teleporting but are vulnerable to water."
+}
