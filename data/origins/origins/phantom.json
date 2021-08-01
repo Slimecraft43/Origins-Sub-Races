@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:phantomize",
+		"origins:translucent",
+		"origins:phasing",
+		"origins:invisibility",
+		"origins:burn_in_daylight",
+		"origins:hunger_over_time",
+		"origins:fragile"
+	],
+	"icon": {
+		"item": "minecraft:phantom_membrane"
+	},
+  "loading_priority": 2,
+	"order": 2,
+	"impact": 3,
+  "name": "Phantom",
+  "description": "The first discovered half-human species of the Phantom Family. Being a half-human and half-phantom offspring, these creatures can switch between a Phantom and a normal form."
+}
