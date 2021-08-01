@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"origins:fire_immunity",
+		"origins:nether_spawn",
+		"origins:burning_wrath",
+		"origins:hotblooded",
+		"origins:water_vulnerability",
+		"origins:flame_particles",
+		"origins:damage_from_snowballs",
+		"origins:damage_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:blaze_powder"
+	},
+  "loading_priority": 2,
+	"order": 1,
+	"impact": 3,
+  "name": "Infernal Blazeborn",
+  "description": "Most usual blazeborn found naturally within the flaming depths of the nether, the Blazeborn are naturally immune to the perils of the Nether."
+}
