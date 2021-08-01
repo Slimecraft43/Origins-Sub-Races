@@ -1,0 +1,12 @@
+{
+  "order": 5,
+  "origins": [
+    ],
+  "enabled": true,
+  "replace": false,
+  "name": "Family",
+  "missing_name": "Missing Family",
+  "missing_description": "You do not have a Family",
+  "allow_random": true
+}
+ 
