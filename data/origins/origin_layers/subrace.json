@@ -1,0 +1,12 @@
+{
+  "order": 8,
+  "origins": [
+    ],
+  "enabled": true,
+  "replace": false,
+  "name": "Origin",
+  "missing_name": "Missing Origin",
+  "missing_description": "You do not have a Origin",
+  "allow_random": true
+}
+ 
