@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:slow_falling",
+		"origins:fresh_air",
+		"origins:tailwind",
+		"origins:lay_eggs",
+		"origins:vegetarian"
+	],
+	"icon": {
+		"item": "minecraft:feather"
+	},
+  "loading_priority": 2,
+	"order": 0,
+	"impact": 1,
+  "name": "Common Avian",
+  "description": "This kind of Avians are very common, mostly found in high altitudes, gliding from one place to the other with what they have left."
+}
