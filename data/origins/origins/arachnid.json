@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:master_of_webs",
+		"origins:carnivore",
+		"origins:fragile",
+		"origins:arthropod"
+	],
+	"icon": {
+		"item": "minecraft:cobweb"
+	},
+  "loading_priority": 2,
+	"order": 1,
+	"impact": 1,
+  "name": "Common Arachnid",
+  "description": "The common Arachnid, lurking in forests and caves near the surface, their climbing abilities and their ability to trap prey in spider web make them the perfect hunters"
+}
