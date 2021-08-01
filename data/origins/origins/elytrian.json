@@ -1,0 +1,18 @@
+{
+	"powers": [
+		"origins:elytra",
+		"origins:launch_into_air",
+		"origins:aerial_combatant",
+		"origins:light_armor",
+		"origins:claustrophobia",
+		"origins:more_kinetic_damage"
+	],
+	"icon": {
+		"item": "minecraft:elytra"
+	},
+  "loading_priority": 2,
+	"order": 3,
+	"impact": 1,
+  "name": "Common Elytrian",
+  "description": "The original species that first appeared, often flying around in the wind, these Elytrians are uncomfortable when they don't have enough space above their head."
+}
