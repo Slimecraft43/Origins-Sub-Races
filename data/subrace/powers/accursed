@@ -1,0 +1,6 @@
+{
+    "type": "origins:effect_immunity",
+    "effect": "minecraft:wither",
+    "name": "Accursed",
+    "description": "The power of your soul fire makes you immune to Withering."
+}
