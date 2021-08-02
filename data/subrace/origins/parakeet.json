@@ -12,7 +12,7 @@
 	"icon": {
 		"item": "minecraft:melon_seeds"
 	},
-	"order": 1
+	"order": 1,
 	"impact": 1,
   "name": "Parakeet",
   "description": "A sub-species of Avians that inhabit the jungle usually at the top of the mighty jungle trees, taking on a parrot-like nature they evolved to eat seeds."
