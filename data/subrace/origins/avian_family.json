@@ -1,7 +1,7 @@
 {
 	"powers": [
 	],
-	"icon": "minecraft:raw_chicken"
+	"icon": "minecraft:raw_chicken",
 	"order": 1,
 	"impact": 1,
   "name": "Avian Family",
