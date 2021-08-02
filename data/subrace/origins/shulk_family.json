@@ -1,0 +1,9 @@
+{
+	"powers": [
+	],
+	"icon": "minecraft:shulker_shell",
+	"order": 4,
+	"impact": 1
+  "name": "Shulk Family",
+  "description": "Descendants of shulkers, inheriting their thick shell and their high strength."
+}
