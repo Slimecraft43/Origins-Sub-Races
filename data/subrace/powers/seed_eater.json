@@ -1,0 +1,60 @@
+{
+    "type": "origins:active_self",
+    "name": "Seed Eater",
+    "description": "Your parrot nature allows you to eat seeds.",
+    "hidden": false,
+    "cooldown": 20,
+    "key": {
+      "key": "key.use",
+      "continuous": false
+    },
+    "entity_action": {
+      "type": "origins:and",
+      "actions": [
+        {
+          "type": "origins:execute_command",
+          "permission_level": 4,
+          "command": "clear @s #subrace:parakeet_seeds 1"
+        },
+        {
+          "type": "origins:feed",
+          "food": 1,
+          "saturation": 0.1
+        },
+        {
+          "type": "origins:play_sound",
+          "sound": "minecraft:entity.player.burp"
+        }
+      ]
+    },
+    "condition": {
+      "type": "origins:or",
+      "conditions": [
+        {
+          "type": "origins:equipped_item",
+          "inverted": false,
+          "equipment_slot": "mainhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "inverted": false,
+            "ingredient": {
+              "tag": "subrace:parakeet_seeds"
+            }
+          }
+        },
+        {
+          "type": "origins:equipped_item",
+          "inverted": false,
+          "equipment_slot": "offhand",
+          "item_condition": {
+            "type": "origins:ingredient",
+            "inverted": false,
+            "ingredient": {
+              "tag": "subrace:parakeet_seeds"
+            }
+          }
+        }
+      ]
+    }
+  }
+  
