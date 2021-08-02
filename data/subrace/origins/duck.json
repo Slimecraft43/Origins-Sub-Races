@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"origins:slow_falling",
+		"origins:tailwind",
+    "origins:fragile",
+    "subrace:water_walker",
+    "subrace:webbed_feet",
+    "origins:aqua_affinity",
+    "origins:like_water",
+    "origins:water_vision",
+    "subrace:home_sick",
+		"origins:lay_eggs",
+    "subrace:duck_diet",
+    "subrace:duck_diet2"
+	],
+	"icon": {
+		"item": "minecraft:cod"
+	},
+	"order": 0,
+	"impact": 1,
+  "name": "Duck",
+  "description": "A kind of Avians that specialize in aquatic endeavors, known best for their ability to walk upon the surface of water, however will grow sick if away from water for long periods."
+}
