@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Leaping Arachnid speed decrease",
+        "attribute": "generic.movement_speed",
+        "value": -0.02,
+        "operation": "addition"
+    },
+    "hidden": true
+}
