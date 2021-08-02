@@ -1,0 +1,11 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:elytra"
+	},
+	"order": 3,
+	"impact": 1,
+  "name": "Elytrian Family",
+  "description": "A race of humans that have a pair of elytra growing from their back, allowing them to glide in ways Avians cannot imagine."
+}
