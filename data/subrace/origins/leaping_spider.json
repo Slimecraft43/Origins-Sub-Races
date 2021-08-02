@@ -1,8 +1,10 @@
 {
 	"powers": [
 		"origins:climbing",
-		"origins:master_of_webs",
+		"subrace:leaping",
+		"subrace:master_pouncer",
 		"origins:carnivore",
+		"subrace:greater_poison",
 		"origins:fragile",
 		"origins:arthropod"
 	],
