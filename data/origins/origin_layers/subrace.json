@@ -1,12 +1,25 @@
 {
-  "order": 8,
-  "origins": [
-    ],
-  "enabled": true,
-  "replace": false,
-  "name": "Origin",
-  "missing_name": "Missing Origin",
-  "missing_description": "You do not have a Origin",
-  "allow_random": true
-}
- 
+    "order": 8,
+    "origins": [
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "subrace:arachnid_family",
+                "layer": "origins:origins"
+            },
+            "origins": [
+                "origins:arachnid",
+                "subrace:cavespider",
+                "subrace:leaping_spider"
+            ]
+        }
+      ],
+    "enabled": true,
+    "replace": false,
+    "name": "Origin",
+    "missing_name": "Missing Origin",
+    "missing_description": "You do not have a Origin",
+    "allow_random": true
+  }
+   
+  
