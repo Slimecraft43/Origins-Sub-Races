@@ -1,0 +1,11 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:phantom_membrane"
+	},
+	"order": 2,
+	"impact": 3,
+  "name": "Phantom Family",
+  "description": "A race of a cross between humans and the well-hated terror of the night skies, the Phantoms, inheriting their abilities of phasing through walls and turning invisible.
+}
