@@ -2,6 +2,8 @@
 	"powers": [
 		"origins:climbing",
 		"subrace:leaping",
+		"subrace:made_for_leaping",
+		"origins:falling_immunity",
 		"subrace:master_pouncer",
 		"origins:carnivore",
 		"subrace:greater_poison",
