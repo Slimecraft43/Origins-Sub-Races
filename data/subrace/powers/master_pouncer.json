@@ -1,0 +1,14 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "condition": {
+        "type": "origins:on_block",
+        "inverted": true
+    },
+    "modifier": {
+        "name": "Leaping Arachnid bonus in air damage",
+        "operation": "addition",
+        "value": 2.0
+    },
+    "name": "Master Pouncer",
+    "description": "You are naturally adept at in-air leaping attacks, making them deal more damage."
+}
