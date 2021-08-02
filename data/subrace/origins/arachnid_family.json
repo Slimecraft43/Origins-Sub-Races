@@ -3,7 +3,7 @@
 	],
   "icon": "minecraft:cobweb",
 	"order": 2,
-	"impact": 1
+	"impact": 1,
   "name": "Arachnid Family",
   "description": "A race of human-spider hybrids well known for their ability to trap their prey in webs and climb up walls."
 }
