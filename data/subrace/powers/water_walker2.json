@@ -1,0 +1,27 @@
+{
+    "type": "origins:conditioned_attribute",
+    "modifier": {
+      "attribute": "generic.movement_speed",
+      "operation": "addition",
+      "value": 0.03,
+      "name": "Duck Water movement increase"
+    },
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:on_block",
+                "block_condition": {
+                    "type": "origins:block",
+                    "block": "minecraft:water"
+                }
+            },
+            {
+                "type": "origins:submerged_in",
+                "fluid": "minecraft:water",
+                "inverted": true
+            }
+        ]
+    },
+    "hidden": true
+  }
