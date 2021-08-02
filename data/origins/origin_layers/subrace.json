@@ -5,7 +5,7 @@
             "condition": {
                 "type": "origins:origin",
                 "origin": "subrace:arachnid_family",
-                "layer": "origins:origins"
+                "layer": "origins:origin"
             },
             "origins": [
                 "origins:arachnid",
