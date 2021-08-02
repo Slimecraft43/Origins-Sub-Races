@@ -1,0 +1,9 @@
+{
+    "type": "origins:modify_jump",
+    "modifier": {
+        "operation": "addition",
+        "value": 0.4
+    },
+    "name": "High Jump",
+    "description": "Being part leaping spider has granted you the ability to jump very high."
+}
