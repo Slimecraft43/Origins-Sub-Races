@@ -1,0 +1,15 @@
+{
+    "type": "origins:modify_food",
+    "food_modifier": {
+        "name": "Duck Food Boost",
+        "operation": "addition",
+        "value": 3.0
+    },
+    "saturation_modifier": {
+        "name": "Duck Saturation Boost",
+        "operation": "addition",
+        "value": 1.0
+    },
+    "name": "Duck Diet",
+    "description": "Food fills up your hunger and saturation more, but you can only eat bread and fish."
+}
