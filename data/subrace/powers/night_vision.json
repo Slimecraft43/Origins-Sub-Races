@@ -1,4 +1,6 @@
 {
     "type": "origins:night_vision",
-    "strength": 0.8
+    "strength": 0.8,
+    "name": "Cave Vision",
+    "description": "Your life in the depths has allowed you to be able to see in the dark."
 }
