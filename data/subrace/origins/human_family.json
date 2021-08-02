@@ -1,0 +1,9 @@
+{
+  "powers": [
+    ]
+  "icon": "minecraft:player_head",
+	"order": 0,
+	"impact": 0,
+  "name": "Human Family",
+  "description": "The species that brought rise to every other origin, one way or another."
+}
