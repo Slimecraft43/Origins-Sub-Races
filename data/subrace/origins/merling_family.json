@@ -1,0 +1,12 @@
+
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:cod"
+	},
+	"order": 0,
+	"impact": 3,
+  "name": "Merling Family",
+  "description": "A race of humanoids adapted to life underwater, being able to do what most cannot underneath the surface of the ocean."
+}
