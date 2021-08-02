@@ -1,0 +1,16 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:master_of_webs",
+		"origins:carnivore",
+		"origins:fragile",
+		"origins:arthropod"
+	],
+	"icon": {
+		"item": "minecraft:fermented_spider_eye"
+	},
+	"order": 1,
+	"impact": 1,
+  "name": "Leaping Arachnid",
+  "description": "A sub-species of Arachnid descending from the leaping spider, being able to jump high and have more potent poison than the Cave Arachnid, however they lost the ability to trap their enemies in webbing."
+}
