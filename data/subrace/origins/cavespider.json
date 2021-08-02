@@ -2,8 +2,11 @@
   "powers": [
     "origins:climbing",
     "origins:master_of_webs",
+    "subrace:lesser_poison",
     "origins:carnivore",
-    "origins:fragile",
+    "subrace:small_spider",
+    "subrace:small_spider2",
+    "subrace:night_vision",
     "origins:arthropod"
     ],
   "icon": "minecraft:spider_eye",
