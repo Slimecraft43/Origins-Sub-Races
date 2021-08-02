@@ -2,15 +2,18 @@
 	"powers": [
 		"origins:slow_falling",
 		"origins:fresh_air",
+		"subrace:jungle_home",
 		"origins:tailwind",
 		"origins:lay_eggs",
-		"origins:vegetarian"
+		"origins:vegetarian",
+		"subrace:seed_eater",
+		"subrace:cookie_death"
 	],
 	"icon": {
-		"item": "minecraft:feather"
+		"item": "minecraft:melon_seeds"
 	},
 	"order": 1
 	"impact": 1,
   "name": "Parakeet",
-  "description": "A sub-species of Avians that inhabit the jungle, taking on a parrot-like nature they evolved to eat seeds".
+  "description": "A sub-species of Avians that inhabit the jungle usually at the top of the mighty jungle trees, taking on a parrot-like nature they evolved to eat seeds."
 }
