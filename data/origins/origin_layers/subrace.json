@@ -12,6 +12,18 @@
                 "subrace:cavespider",
                 "subrace:leaping_spider"
             ]
+        },
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "subrace:avian_family",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "origins:avian",
+                "subrace:parakeet",
+                "subrace:duck"
+               ]
         }
       ],
     "enabled": true,
