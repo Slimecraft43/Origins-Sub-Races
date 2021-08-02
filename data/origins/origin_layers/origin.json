@@ -1,6 +1,16 @@
 {
   "order": 5,
   "origins": [
+    "subrace:arachnid_family",
+    "subrace:avian_family",
+    "subrace:blaze_family",
+    "subrace:elytrian_family",
+    "subrace:ender_family",
+    "subrace:feline_family",
+    "subrace:human_family",
+    "subrace:merling_family",
+    "subrace:phantom_family",
+    "subrace:shulk_family"
     ],
   "enabled": true,
   "replace": true,
