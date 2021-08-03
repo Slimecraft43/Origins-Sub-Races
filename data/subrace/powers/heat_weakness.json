@@ -1,0 +1,21 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:fire"
+    },
+    "modifier": {
+        "name": "Weakness to fire",
+        "operation": "multiply_total",
+        "value": 1
+    },
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:temperature",
+            "comparison": "<=",
+            "compare_to": 1.2
+        }
+    },
+    "name": "Heat Vulnerablility",
+    "description": "You take much more fire damage, even more if you are in a hot biome."
+}
