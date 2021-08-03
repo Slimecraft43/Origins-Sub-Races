@@ -12,7 +12,7 @@
     "hud_render": {
         "should_render": true,
         "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_02.png",
-        "bar_index": 9
+        "bar_index": 8
     },
   "name": "Icy Touch",
   "description": "You are able to freeze enemies you hit, slowing them greatly for a short time."
