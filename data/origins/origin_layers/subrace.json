@@ -36,6 +36,18 @@
                 "subrace:soul_blaze",
                 "subrace:blizzborn"
             ]
+        },
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "subrace:elytrian_family",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "origins:elytrian",
+                "subrace:arctic_elytrian",
+                "subrace:mourning_elytrian"
+            ]
         }
       ],
     "enabled": true,
