@@ -1,0 +1,10 @@
+{
+    "type": "origins:modify_exhaustion",
+    "modifier": {
+        "name": "Decreased Exhaustion",
+        "operation": "multiply_base",
+        "value": -0.40
+    },
+    "name": "Small Appetite",
+    "description": "You exhaust much slower than others, thus requiring you to eat less."
+}
