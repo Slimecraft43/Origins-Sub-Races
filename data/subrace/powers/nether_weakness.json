@@ -20,7 +20,8 @@
             },
             {
                 "type": "origins:power_active",
-                "power": "subrace:nether_shield"
+                "power": "subrace:nether_shield",
+                "inverted": true
             }
         
         ]
