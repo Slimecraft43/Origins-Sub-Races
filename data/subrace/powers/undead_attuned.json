@@ -9,8 +9,8 @@
     },
     "modifier":{
         "name": "Resistant to attacks from undead",
-        "operation": "addition",
-        "value": -4.0
+        "operation": "multiply_base",
+        "value": -0.32
     },
     "name": "Undead Attuned",
     "description": "Your familiarity with the dead makes you take less damage from attacks originating from undead mobs."
