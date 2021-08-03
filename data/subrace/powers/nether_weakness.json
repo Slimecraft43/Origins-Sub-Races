@@ -5,12 +5,13 @@
     "damage": 2,
     "damage_easy": 1,
     "damage_source": {
-      "name": "fire",
+      "name": "onFire",
       "unblockable": true,
-      "bypasses_armor": true
+      "bypasses_armor": true,
+      "fire": true
     },
     "protection_enchantment": "minecraft:fire_protection",
-    "protection_effectiveness": 1.0,
+    "protection_effectiveness": 8.0,
     "condition": {
         "type": "origins:dimension",
         "dimension": "minecraft:the_nether"
