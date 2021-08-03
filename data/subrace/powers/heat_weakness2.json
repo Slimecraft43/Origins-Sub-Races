@@ -1,0 +1,20 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:fire"
+    },
+    "modifier": {
+        "name": "Weakness to fire",
+        "operation": "multiply_total",
+        "value": 3
+    },
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:temperature",
+            "comparison": ">=",
+            "compare_to": 1.2
+        }
+    },
+    "hidden": true
+}
