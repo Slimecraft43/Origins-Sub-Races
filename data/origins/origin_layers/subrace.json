@@ -24,6 +24,18 @@
                 "subrace:parakeet",
                 "subrace:duck"
                ]
+        },
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "subrace:blaze_family",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "origins:blazeborn",
+                "subrace:soul_blaze",
+                "subrace:blizzborn"
+            ]
         }
       ],
     "enabled": true,
@@ -32,6 +44,4 @@
     "missing_name": "Missing Origin",
     "missing_description": "You do not have a Origin",
     "allow_random": true
-  }
-   
-  
+}
