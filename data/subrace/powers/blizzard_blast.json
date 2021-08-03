@@ -1,0 +1,19 @@
+{
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:spawn_effect_cloud",
+        "radius": 3.5,
+        "effect": {
+            "effect": "minecraft:slowness",
+            "duration": 200
+        }
+    },
+    "cooldown": 600,
+    "hud_render": {
+        "should_render": true,
+        "sprite_location": "origins:textures/gui/community/spiderkolo/resource_bar_03.png",
+        "bar_index": 0
+    },
+    "name": "Blizzard Burst",
+    "description": "Every 30 seconds, you are able to produce a cloud of freezing air around you that slows what ever is caught in it."
+}
