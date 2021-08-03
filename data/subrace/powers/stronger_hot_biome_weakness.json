@@ -10,11 +10,12 @@
             "show_particles": false,
             "show_icon": true
         },
-      {
+        {
         "effect": "minecraft:slowness",
         "is_ambient": true,
         "show_particles": false,
         "show_icon": true
+        }
     ],
     "condition": {
     "type": "origins:biome",
