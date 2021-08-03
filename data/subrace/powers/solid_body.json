@@ -17,7 +17,7 @@
     "modifier": {
         "name": "Blizzborn against resistant",
         "operation": "multiply_total",
-        "value": -0.2
+        "value": -0.65
     },
   "name": "Solid Body",
   "description": "Your body is made of solid ice, making it difficult for swords and arrows to damage you, however pickaxes do significantly more damage."
