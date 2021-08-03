@@ -17,5 +17,13 @@
             "show_icon": true
         }
     ],
+    "condition": {
+    "type": "origins:biome",
+    "condition": {
+        "type": "origins:temperature",
+        "comparison": "<",
+        "compare_to": 0.5
+    }
+    },
     "hidden": true
 }
