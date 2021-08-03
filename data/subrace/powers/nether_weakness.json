@@ -2,8 +2,8 @@
     "type": "origins:damage_over_time",
     "interval": 20,
     "onset_delay": 1,
-    "damage": 2,
-    "damage_easy": 1,
+    "damage": 0.5,
+    "damage_easy": 0.25,
     "damage_source": {
       "name": "onFire",
       "unblockable": true,
