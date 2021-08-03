@@ -2,8 +2,9 @@
   "type": "origins:effect_immunity",
   "effects": [
     "minecraft:poison",
-    "minecraft:hunger"
+    "minecraft:hunger",
+    "minecraft:slowness"
   ],
   "name": "Cold Blooded",
-  "description": "Due to your cold body, disease freezes, making you immune to poison and hunger status effects."
+  "description": "Due to your cold body you became immune to slowness as well as causing disease to freeze, making you immune to poison and hunger status effects."
 }
