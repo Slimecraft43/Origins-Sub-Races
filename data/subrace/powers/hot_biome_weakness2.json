@@ -9,12 +9,6 @@
             "is_ambient": true,
             "show_particles": false,
             "show_icon": true
-        },
-        {
-            "effect": "minecraft:hunger",
-            "is_ambient": true,
-            "show_particles": false,
-            "show_icon": true
         }
     ],
     "condition": {
