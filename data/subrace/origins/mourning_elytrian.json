@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"origins:elytra",
+    "origins:phantomize",
+    "origins:phasing",
+    "origins:hunger_over_time",
+    "subrace:lesser_phasing",
+    "subrace:grave_touch",
+    "subrace:undead",
+    "subrace:undead_attuned",
+    "subrace:less_exhaustion",
+		"origins:launch_into_air",
+		"origins:aerial_combatant",
+		"origins:light_armor",
+		"origins:claustrophobia",
+    "sub_race:insomniac",
+		"origins:more_kinetic_damage"
+	],
+	"icon": {
+		"item": "minecraft:soul_lantern"
+	},
+	"order": 3,
+	"impact": 1,
+  "name": "Mourning Elytrian",
+  "description": "Created from an unknown origin, these Elytrians protect areas where spirits lie, such as graveyards."
+}
