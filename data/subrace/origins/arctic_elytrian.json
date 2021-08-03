@@ -8,10 +8,10 @@
     "subrace:heat_vulnerability"
 	],
 	"icon": {
-		"item": "minecraft:snow_ball"
+		"item": "minecraft:snowball"
 	},
 	"order": 3,
 	"impact": 1,
   "name": "Arctic Elytrian",
-  "description": "A kind of Elytrians adapted to the freezing cold. Their wings big, and heavy with feathers, to survive they had to abandon their life of flying through the skies and to huddle in small spaces to stay warm, growing dense bones and overcoming their claustrophobia, losing their ability to launch into the sky."
+  "description": "A kind of Elytrians adapted to the freezing cold. Their wings big and heavy with dense feathers, to survive they had to abandon their life of flying through the skies and to huddle in small spaces to stay warm causing them to grow dense bones and to overcome their claustrophobia, but losing their ability to launch into the sky."
 }
