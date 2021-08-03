@@ -16,7 +16,7 @@
     "modifier": {
         "name": "Blizzborn vulnerable against",
         "operation": "multiply_total",
-        "value": 0.95
+        "value": 1.95
     },
     "hidden": true
 }
