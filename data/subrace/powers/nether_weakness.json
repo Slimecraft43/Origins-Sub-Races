@@ -12,19 +12,8 @@
     "protection_enchantment": "minecraft:fire_protection",
     "protection_effectiveness": 1.0,
     "condition": {
-        "type": "origins:and",
-        "conditions": [
-            {
-                "type": "origins:dimension",
-                "dimension": "minecraft:nether"
-            },
-            {
-                "type": "origins:power_active",
-                "power": "subrace:nether_shield",
-                "inverted": true
-            }
-        
-        ]
+        "type": "origins:dimension",
+        "dimension": "minecraft:nether"
     },
   "name": "Netherphobia",
   "description": "The extreme heat of the nether hurts you, Fire Protection enchantments & Fire Resistance can defend you from the lethal heat of the Nether."
