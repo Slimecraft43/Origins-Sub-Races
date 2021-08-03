@@ -1,0 +1,24 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 120,
+    "duration_per_stack": 1,
+    "effects": [
+        {
+            "effect": "minecraft:strength",
+            "is_ambient": true,
+            "show_particles": false,
+            "show_icon": true
+        }
+    ],
+    "condition": {
+    "type": "origins:biome",
+    "condition": {
+        "type": "origins:temperature",
+        "comparison": "<",
+        "compare_to": 0.5
+    }
+    },
+  "name": "Cold Strength",
+  "description": "You become stronger if you are in a cold biome, but become weaker if you are in a hot biome."
+}
