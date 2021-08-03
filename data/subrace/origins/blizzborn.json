@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"subrace:heat_weakness",
+    "subrace:heat_weakness2",
+    "subrace:hot_biome_weakness",
+    "subrace:hot_biome_weakness2",
+    "subrace:nether_weakness",
+    "subrace:solid_body",
+    "subrace:solid_body2",
+    "subrace:solid_body3",
+		"subrace:cold_strength",
+    "subrace:cold_strength2",
+    "subrace:icy_touch",
+    "subrace:blizzard_blast",
+		"subrace:cold_blooded",
+		"subrace:freezing_regen",
+		"subrace:snow_particles"
+	],
+	"icon": {
+		"item": "minecraft:packed_ice"
+	},
+	"order": 1,
+	"impact": 2,
+  "name": "Blizzborn",
+  "description": "Ancient murals carved in arctic ice depict of a ancient kind of blazes that ruled the element of frost, and when Infernal Blazeborns begin wandering on the ancient territory of the Blizz, ancient magic begin it's work once more, turning them into Blizzborns."
+}
