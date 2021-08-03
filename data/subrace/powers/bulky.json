@@ -1,0 +1,12 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Max health increase",
+        "attribute": "minecraft:generic.max_health",
+        "value": 10,
+        "operation": "addition",
+        "update_health": true
+    },
+    "name": "Bulky",
+    "description": "Your total health is increased greatly."
+}
