@@ -9,11 +9,10 @@
     "subrace:undead",
     "subrace:undead_attuned",
     "subrace:less_exhaustion",
-		"origins:launch_into_air",
 		"origins:aerial_combatant",
 		"origins:light_armor",
 		"origins:claustrophobia",
-    "sub_race:insomniac",
+    "subrace:insomniac",
 		"origins:more_kinetic_damage"
 	],
 	"icon": {
