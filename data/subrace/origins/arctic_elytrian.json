@@ -1,0 +1,17 @@
+
+{
+	"powers": [
+		"origins:elytra",
+		"origins:aerial_combatant",
+    "subrace:lesser_cold_strength",
+    "subrace:stronger_hot_biome_weakness",
+    "subrace:heat_vulnerability"
+	],
+	"icon": {
+		"item": "minecraft:snow_ball"
+	},
+	"order": 3,
+	"impact": 1,
+  "name": "Arctic Elytrian",
+  "description": "A kind of Elytrians adapted to the freezing cold. Their wings big, and heavy with feathers, to survive they had to abandon their life of flying through the skies and to huddle in small spaces to stay warm, growing dense bones and overcoming their claustrophobia."
+}
