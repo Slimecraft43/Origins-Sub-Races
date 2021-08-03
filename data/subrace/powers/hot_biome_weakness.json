@@ -1,0 +1,16 @@
+{
+    "type": "origins:modify_break_speed",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": -0.25
+    },
+    "condition": {
+        "type": "origins:biome",
+        "condition": {
+            "type": "origins:temperature",
+            "comparison": ">",
+            "compare_to": 1.2
+        }
+    },
+    "hidden": true
+}
