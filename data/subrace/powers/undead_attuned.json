@@ -1,0 +1,17 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:attacker",
+        "entity_condition": {
+            "type": "origins:entity_group",
+            "group": "undead"
+        }
+    },
+    "modifier":{
+        "name": "Resistant to attacks from undead",
+        "operation": "addition",
+        "value": -4.0
+    },
+    "name": "Undead Attuned",
+    "description": "Your familiarity with the dead makes you take less damage from attacks originating from undead mobs."
+}
