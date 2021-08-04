@@ -1,6 +1,6 @@
 {
   "type": "origins:shader",
-  "shader": "minecraft:shaders/post/inverted.json",
+  "shader": "minecraft:shaders/post/invert.json",
   "name": "Ender Vision",
   "description": "Due to having more Ender blood, you have the vision of an Enderman."
 }
