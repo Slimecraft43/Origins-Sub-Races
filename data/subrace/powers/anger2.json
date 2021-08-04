@@ -1,0 +1,14 @@
+{
+  "type": "origins:effect_immunity",
+  "effects": [
+    "minecraft:weakness",
+    "minecraft:slowness"
+  ],
+  "condition": {
+    "type": "origins:resource",
+    "resource": "subrace:docile_nature",
+    "comparison": "==",
+    "compare_to": 1
+  },
+  "hidden": true
+}
