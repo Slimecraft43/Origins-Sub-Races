@@ -1,0 +1,21 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:weakness",
+      "duration": 100,
+      "amplifier": 99,
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": false
+    }
+  },
+  "condition": {
+    "type": "origins:resource",
+    "resource": "subrace:docile_nature",
+    "comparison": "==",
+    "compare_to": 0
+  },
+  "hidden": true
+}
