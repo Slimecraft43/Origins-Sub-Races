@@ -1,0 +1,25 @@
+{
+	"powers": [
+		"subrace:greater_teleportation",
+		"subrace:water_hatred",
+		"origins:pumpkin_hate",
+    "subrace:ender_vision",
+		"subrace:long_arms",
+    "subrace:bulky",
+    "subrace:tall",
+    "subrace:docile_nature",
+    "subrace:docile_weakness",
+    "subrace:ender_rage",
+    "subrace:anger",
+    "subrace:anger2",
+		"origins:ender_particles",
+		"origins:damage_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:ender_pearl"
+	},
+	"order": 1,
+	"impact": 2,
+  "name": "Enderling",
+  "description": "An attempt at making an Enderian going wrong, making them more Endermen than the normal Enderian and are usually ejected into the void, Enderlings that learn fast teleport out of danger and escape."
+}
