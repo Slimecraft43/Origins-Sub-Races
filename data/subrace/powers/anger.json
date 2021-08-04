@@ -1,0 +1,42 @@
+{
+  "origins": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:play_sound",
+    "sound": "minecraft:entity.enderman.scream"
+  },
+  "rising_action": {
+    "type": "origins:and",
+    "actions": [
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:strength",
+          "duration": 600,
+          "amplifier": 1,
+          "is_ambient": true,
+          "show_particles": false,
+          "show_icon": true
+        }
+      },
+      {
+        "type": "origins:apply_effect",
+        "effect": {
+          "effect": "minecraft:speed",
+          "duration": 600,
+          "amplifier": 2,
+          "is_ambient": true,
+          "show_particles": false,
+          "show_icon": true
+        }
+      }
+    ]
+  },
+  "inverval": 100,
+  "condition": {
+    "type": "origins:resource",
+    "resource": "subrace:docile_nature",
+    "comparison": "==",
+    "compare_to": 1
+  },
+  "hidden": true
+}
