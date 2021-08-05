@@ -1,0 +1,12 @@
+{
+    "type": "origins:effect_immunity",
+    "effects": [
+        "minecraft:slowness",
+        "minecraft:weakness",
+        "minecraft:poison",
+        "minecraft:wither",
+        "minecraft:mining_fatigue"
+    ],
+    "name": "Dragon's Constitution",
+    "description": "You have highly increased health, as well as gaining immunity to most negative status effects."
+}
