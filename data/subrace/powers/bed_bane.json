@@ -1,0 +1,14 @@
+{
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "badRespawnPoint"
+    },
+    "modifier": {
+        "name": "Speedrunner quick kill ami right gamers?",
+        "operation": "multiply_total",
+        "value": 1
+    },
+    "name": "Bed Bane",
+    "description": "Damage recieved from an exploding bed is doubled."
+}
