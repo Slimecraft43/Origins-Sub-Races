@@ -1,0 +1,22 @@
+{
+    "type": "origins:invulnerability",
+    "damage_condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:name",
+                "name": "dragonBreath"
+            },
+            {
+                "type": "origins:name",
+                "name": "magic"
+            },
+            {
+                "type": "origins:name",
+                "name": "indirectMagic"
+            }
+        ]
+    },
+    "name": "Dragon Scales",
+    "description": "Your magical dragon scales that grant you immunity from magic and fire damage."
+}
