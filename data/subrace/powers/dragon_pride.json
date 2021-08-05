@@ -14,14 +14,14 @@
                 "action": {
                     "type": "origins:execute_command",
                     "permission_level": 4,
-                    "command": "/summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:totem_of_undying",Count:1}}"
+                    "command": "summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:totem_of_undying",Count:1}}"
                 }
             }
         ]
     },
     "interval": 20,
     "condition": {
-        "type": "origins:and",
+        "type": "origins:or",
         "conditions": [
             {
                 "type": "origins:equipped_item",
@@ -46,5 +46,5 @@
         ]
     },
     "name": "Dragon's Pride",
-    "description": "You're a dragon? Why should you need these shields and totems like everyone else? You're too good for those things."
+    "description": "You're a dragon. Why should you need these shields and totems like everyone else? You're too good for those things."
 }
