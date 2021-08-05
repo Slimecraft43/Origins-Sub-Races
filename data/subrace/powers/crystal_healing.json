@@ -1,0 +1,30 @@
+{
+  "type": "origins:action_over_time",
+  "entity_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:regeneration",
+      "duration": 80,
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": true
+    }
+  },
+  "rising_action": {
+    "type": "origins:apply_effect",
+    "effect": {
+      "effect": "minecraft:regeneration",
+      "duration": 80,
+      "is_ambient": true,
+      "show_particles": false,
+      "show_icon": true
+    }
+  },
+  "falling_action": {
+    "type": "origins:clear_effect",
+    "effect": "minecraft:regeneration"
+  },
+  "interval": 40,
+  "name": "Crystal Healing",
+  "description": "You heal when you are holding a end crystal."
+}
