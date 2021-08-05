@@ -1,0 +1,50 @@
+{
+    "type": "origins:action_over_time",
+    "rising_action": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "permission_level": 4,
+                "command": "clear @s minecraft:totem_of_undying 1"
+            },
+            {
+                "type": "origins:delay",
+                "ticks": 5,
+                "action": {
+                    "type": "origins:execute_command",
+                    "permission_level": 4,
+                    "command": "/summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:totem_of_undying",Count:1}}"
+                }
+            }
+        ]
+    },
+    "interval": 20,
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "mainhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "minecraft:totem_of_undying"
+                    }
+                }
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "offhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "minecraft:totem_of_undying"
+                    }
+                }
+            }
+        ]
+    },
+    "name": "Dragon's Pride",
+    "description": "You're a dragon? Why should you need these shields and totems like everyone else? You're too good for those things."
+}
