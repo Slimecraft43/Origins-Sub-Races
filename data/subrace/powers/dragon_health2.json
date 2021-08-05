@@ -1,0 +1,10 @@
+{
+    "type": "origins:attribute",
+    "modifier": {
+        "name": "Ender Wyrmling health increase",
+        "attribute": "minecraft:generic.max_health",
+        "value": 20,
+        "operation": "addition"
+    },
+    "hidden": true
+}
