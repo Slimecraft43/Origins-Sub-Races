@@ -12,6 +12,7 @@
     "subrace:ender_rage",
     "subrace:anger",
     "subrace:anger2",
+		"subrace:calm_on_death",
 		"origins:ender_particles",
 		"origins:damage_from_potions"
 	],
