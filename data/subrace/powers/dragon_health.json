@@ -1,8 +1,6 @@
 {
     "type": "origins:effect_immunity",
     "effects": [
-        "minecraft:slowness",
-        "minecraft:weakness",
         "minecraft:poison",
         "minecraft:wither",
         "minecraft:mining_fatigue"
