@@ -4,7 +4,7 @@
       "type": "origins:apply_effect",
       "effect": {
         "effect": "minecraft:weakness",
-        "duration": 100,
+        "duration": 120,
         "amplifier": 99,
         "is_ambient": true,
         "show_particles": false,
@@ -15,7 +15,7 @@
         "type": "origins:apply_effect",
         "effect": {
             "effect": "minecraft:weakness",
-            "duration": 100,
+            "duration": 120,
             "amplifier": 99,
             "is_ambient": true,
             "show_particles": false,
