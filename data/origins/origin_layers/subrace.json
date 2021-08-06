@@ -48,6 +48,18 @@
                 "subrace:arctic_elytrian",
                 "subrace:mourning_elytrian"
             ]
+        },
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "subrace:ender_family",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "origins:enderian",
+                "subrace:enderling",
+                "subrace:ender_wyrmling"
+            ]
         }
       ],
     "enabled": true,
