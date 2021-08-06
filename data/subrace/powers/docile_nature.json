@@ -6,7 +6,7 @@
   "hud_render": {
     "should_render": true,
     "sprite_location": "origins:textures/gui/resource_bar.png",
-    "bar_index": 8
+    "bar_index": 7
   },
   "name": "Docile Nature",
   "description": "Like an Enderman, you are extremely docile, unable to attack things, however if you are hit you become enraged, gaining powerful buffs and gaining the ability to kill."
