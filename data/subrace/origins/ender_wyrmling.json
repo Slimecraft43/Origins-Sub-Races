@@ -1,0 +1,24 @@
+{
+	"powers": [
+		"origins:throw_ender_pearl",
+    "subrace:crystal_healing",
+    "subrace:dragon_health",
+    "subrace:dragon_health2",
+    "subrace:dragon_scales",
+    "subrace:dragon_breath",
+    "subrace:dragon_pride",
+    "subrace:dragon_pride2",
+		"origins:ender_particles",
+    "subrace:bed_bane",
+    "subrace:netherite_weakness",
+    "subrace:netherite_weakness2",
+    "subrace:netherite_weakness3"
+	],
+	"icon": {
+		"item": "minecraft:dragon_head"
+	},
+	"order": 1,
+	"impact": 3,
+  "name": "Ender Wyrmling",
+  "description": "Enderians that are high-ranked and show great strength are blessed by the Ender Dragon, gaining a fraction of her powers."
+}
