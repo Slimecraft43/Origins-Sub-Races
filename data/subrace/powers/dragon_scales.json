@@ -1,7 +1,7 @@
 {
     "type": "origins:invulnerability",
     "damage_condition": {
-        "type": "origins:and",
+        "type": "origins:or",
         "conditions": [
             {
                 "type": "origins:name",
@@ -14,6 +14,9 @@
             {
                 "type": "origins:name",
                 "name": "indirectMagic"
+            },
+            {
+                "type": "origins:fire" 
             }
         ]
     },
