@@ -1,30 +1,55 @@
 {
-  "type": "origins:action_over_time",
-  "entity_action": {
-    "type": "origins:apply_effect",
-    "effect": {
-      "effect": "minecraft:regeneration",
-      "duration": 80,
-      "is_ambient": true,
-      "show_particles": false,
-      "show_icon": true
-    }
-  },
-  "rising_action": {
-    "type": "origins:apply_effect",
-    "effect": {
-      "effect": "minecraft:regeneration",
-      "duration": 80,
-      "is_ambient": true,
-      "show_particles": false,
-      "show_icon": true
-    }
-  },
-  "falling_action": {
-    "type": "origins:clear_effect",
-    "effect": "minecraft:regeneration"
-  },
-  "interval": 40,
-  "name": "Crystal Healing",
-  "description": "You heal when you are holding a end crystal."
+    "type": "origins:action_over_time",
+    "entity_action": {
+      "type": "origins:apply_effect",
+      "effect": {
+        "effect": "minecraft:regeneration",
+        "duration": 80,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": true
+      }
+    },
+    "rising_action": {
+      "type": "origins:apply_effect",
+      "effect": {
+        "effect": "minecraft:regeneration",
+        "duration": 80,
+        "is_ambient": true,
+        "show_particles": false,
+        "show_icon": true
+      }
+    },
+    "falling_action": {
+      "type": "origins:clear_effect",
+      "effect": "minecraft:regeneration"
+    },
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "mainhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "minecraft:end_crystal"
+                    }
+                }
+            },
+            {
+                "type": "origins:equipped_item",
+                "equipment_slot": "offhand",
+                "item_condition": {
+                    "type": "origins:ingredient",
+                    "ingredient": {
+                        "item": "minecraft:end_crystal"
+                    }
+                }
+            }
+        ]
+    },
+    "interval": 40,
+    "name": "Crystal Healing",
+    "description": "You heal when you are holding a end crystal."
 }
