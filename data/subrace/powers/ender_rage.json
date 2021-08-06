@@ -23,7 +23,7 @@
         "type": "origins:resource",
         "resource": "subrace:docile_nature",
         "comparison": "==",
-        "compare_to": 1
+        "compare_to": 0
     },
     "hidden": true,
     "cooldown": 600,
