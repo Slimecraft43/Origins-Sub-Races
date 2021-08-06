@@ -1,5 +1,5 @@
 {
-    "origins": "origins:action_over_time",
+    "type": "origins:action_over_time",
     "entity_action": {
       "type": "origins:play_sound",
       "sound": "minecraft:entity.enderman.scream"
