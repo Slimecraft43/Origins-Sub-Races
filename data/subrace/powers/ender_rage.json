@@ -5,7 +5,7 @@
     "actions": [
       {
         "type": "origins:execute_command",
-        "command": "resource change @s subrace:docile_nature, 1",
+        "command": "resource change @s subrace:docile_nature 1",
         "permission_level": 4
       },
       {
@@ -13,7 +13,7 @@
         "ticks": 600,
         "action": {
           "type": "origins:execute_command",
-          "command": "resource change @s subrace:docile_nature, -1",
+          "command": "resource change @s subrace:docile_nature -1",
           "permission_level": 4
         }
       }
