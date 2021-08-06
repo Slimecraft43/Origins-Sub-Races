@@ -8,9 +8,9 @@
         "bar_index": 11
     },
     "key": {
-        "key": "key.origins.primary_active"
+        "key": "key.origins.secondary_active"
     },
     "sound": "minecraft:entity.ender_dragon.shoot",
     "name": "Dragon Breath",
-    "description": "By pressing the primary power key, you can fire the a fireball that explodes into a cloud of dragon breath on impact."
+    "description": "By pressing the secondary power key, you can fire the a fireball that explodes into a cloud of dragon breath on impact."
 }
