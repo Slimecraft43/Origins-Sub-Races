@@ -1,5 +1,8 @@
 {
     "type": "origins:self_action_when_hit",
+    "damage_condition": {
+        "type": "origins:attacker"
+    },
     "entity_action": {
         "type": "origins:and",
         "actions": [
