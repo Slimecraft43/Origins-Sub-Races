@@ -1,0 +1,20 @@
+{
+	"powers": [
+		"origins:fall_immunity",
+		"origins:sprint_jump",
+		"origins:nine_lives",
+        "subrace:cat_food",
+        "subrace:cat_food2",
+		"origins:weak_arms",
+        "subrace:petite_body",
+		"origins:scare_creepers",
+		"origins:cat_vision"
+	],
+	"icon": {
+		"item": "minecraft:tropical_fish"
+	},
+	"order": 0,
+	"impact": 2,
+  "name": "House Cat",
+  "description": "A smaller breed of Felines, they're smaller than the usual origin. They behave similar to a domesitcated house cat, and are quite friendly and affectionate."
+}

@@ -1,0 +1,21 @@
+{
+    "type": "origins:modify_hunger",
+    "item_condition": {
+        "type": "origins:ingredient",
+        "ingredient": {
+            "tag": "subrace:house_cat_foods"
+        },
+        "inverted": true
+    },
+    "food_modifier": {
+        "name": "Non-House-Cat Food decrease",
+        "operation": "addition",
+        "value": -4.0
+    },
+    "saturation_modifier": {
+        "name": "Non-House-Cat Food decrease",
+        "operation": "addition",
+        "value": -2.0
+    },
+    "hidden": true
+}
