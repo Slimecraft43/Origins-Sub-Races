@@ -60,6 +60,18 @@
                 "subrace:enderling",
                 "subrace:ender_wyrmling"
             ]
+        },
+        {
+            "condiiton": {
+                "type": "origins:origin",
+                "origin": "subrace:feline_family",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "origins:feline",
+                "subrace:house_cat",
+                "subrace:wild_cat"
+            ]
         }
       ],
     "enabled": true,
