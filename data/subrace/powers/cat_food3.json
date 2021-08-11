@@ -2,14 +2,15 @@
     "type": "origins:action_on_item_use",
     "entity_action": {
         "type": "origins:feed",
-        "food": 3.0,
-        "saturation": 1.5
+        "food": -3.0,
+        "saturation": -1.5
     },
     "item_condition": {
         "type": "origins:ingredient",
         "ingredient": {
             "tag": "subrace:house_cat_foods"
-        }
+        },
+        "inverted": true
     },
     "hidden": true
 }
