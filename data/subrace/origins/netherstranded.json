@@ -3,7 +3,7 @@
         "origins:nether_spawn"
     ],
 	"icon": {
-		"item": "minecraft:player_head"
+		"item": "minecraft:netherrack"
 	},
 	"order": 0,
 	"impact": 3,
