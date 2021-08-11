@@ -1,7 +1,7 @@
 {
     "type": "origins:exhaust",
     "interval": 20,
-    "exhaustion": 0.812,
+    "exhaustion": 1,
     "condition": {
       "type": "origins:power_active",
       "power": "subrace:wild_speed"
