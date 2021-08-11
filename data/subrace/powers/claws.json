@@ -1,8 +1,8 @@
 {
     "type": "origins:modify_damage_dealt",
     "damage_condition": {
-        "type": "origins:projectile",
-        "inverted": true
+        "type": "origins:name",
+        "name": "player"
     },
     "modifier": {
         "name": "Wild Cat unarmed bonus",
@@ -10,7 +10,7 @@
         "value": 3.0
     },
     "condition": {
-        "type": "origins:equipped",
+        "type": "origins:equipped_item",
         "equipment_slot": "mainhand",
         "item_condition": {
             "type": "origins:ingredient",
