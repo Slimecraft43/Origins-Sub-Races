@@ -1,0 +1,26 @@
+{
+	"powers": [
+		"origins:water_breathing",
+		"origins:water_vision",
+		"origins:aqua_affinity",
+		"origins:swim_speed",
+        "subrace:trident_speed",
+        "subrace:hunt_boost",
+		"origins:like_water",
+		"origins:aquatic",
+        "subrace:alluring_song",
+        "subrace:energy_absorb",
+        "subrace:energy_absorb2",
+        "subrace:energy_absorb3",
+        "origins:fragile",
+		"origins:conduit_power_on_land",
+		"origins:air_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:skeleton_skull"
+	},
+	"order": 0,
+	"impact": 3,
+  "name": "Siren",
+  "description": "A race of ravenous merlings that are bent on devouring life force to survive, their mystical voice sings a song that cannot be resisted by most origins, however were never made for confrontation."
+}

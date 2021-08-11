@@ -1,0 +1,14 @@
+{
+    "type": "origins:self_action_on_hit",
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 1.0,
+        "saturation": 0.1
+    },
+    "cooldown": 5,
+    "target_condition": {
+        "type": "origins:entity_group",
+        "group": "undead"
+    },
+    "hidden": true
+}

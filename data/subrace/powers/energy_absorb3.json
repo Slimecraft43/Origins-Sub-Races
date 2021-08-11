@@ -1,0 +1,14 @@
+{
+    "type": "origins:self_action_on_hit",
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 2.0,
+        "saturation": 1.0
+    },
+    "cooldown": 5,
+    "target_condition": {
+        "type": "origins:entity_type",
+        "entity_type": "minecraft:player"
+    },
+    "hidden": true
+}

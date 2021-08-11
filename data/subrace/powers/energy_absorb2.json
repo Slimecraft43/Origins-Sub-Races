@@ -1,0 +1,23 @@
+{
+    "type": "origins:self_action_on_hit",
+    "entity_action": {
+        "type": "origins:feed",
+        "food": 2.0,
+        "saturation": 0.5
+    },
+    "cooldown": 5,
+    "target_condition": {
+        "type": "origins:or",
+        "condition": [
+            {
+                "type": "origins:entity_group",
+                "group": "illager"
+            },
+            {
+                "type": "origins:entity_type",
+                "entity_type": "minecraft:villager"
+            }
+        ]
+    },
+    "hidden": true
+}

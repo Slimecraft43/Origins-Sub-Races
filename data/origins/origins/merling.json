@@ -4,6 +4,7 @@
 		"origins:water_vision",
 		"origins:aqua_affinity",
 		"origins:swim_speed",
+		"subrace:trident_speed",
 		"origins:like_water",
 		"origins:aquatic",
 		"origins:conduit_power_on_land",
@@ -16,5 +17,5 @@
 	"order": 0,
 	"impact": 3,
   "name": "Common Merling",
-  "description": "The original breed of Merlings, these natural inhabitants of the ocean are not used to being out of the water for too long.
+  "description": "The original breed of Merlings, these natural inhabitants of the ocean are not used to being out of the water for too long."
 }
