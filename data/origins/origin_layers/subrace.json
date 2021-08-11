@@ -62,7 +62,7 @@
             ]
         },
         {
-            "condiiton": {
+            "condition": {
                 "type": "origins:origin",
                 "origin": "subrace:feline_family",
                 "layer": "origins:origin"
