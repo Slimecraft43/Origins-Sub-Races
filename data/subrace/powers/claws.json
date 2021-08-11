@@ -1,0 +1,24 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "player"
+    },
+    "modifier": {
+        "name": "Wild Cat unarmed bonus",
+        "operation": "addition",
+        "value": 3.0
+    },
+    "condition": {
+        "type": "origins:equipped",
+        "equipment_slot": "mainhand",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:air"
+            }
+        }
+    },
+    "name": "Sharp Claws",
+    "description": "You have sharp claws, dealing more damage when you attack with your bare fist."
+}

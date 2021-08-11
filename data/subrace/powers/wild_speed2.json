@@ -1,0 +1,19 @@
+{
+    "type": "origins:action_over_time",
+    "rising_action": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:motion 1.67 @s",
+        "permission_level": 4
+    },
+    "falling_action": {
+        "type": "origins:execute_command",
+        "command": "scale set pehkui:motion 1 @s",
+        "permission_level": 4
+    },
+    "interval": 80,
+    "condition": {
+        "type": "origins:power_active",
+        "power": "subrace:wild_speed"
+    },
+    "hidden": true
+}

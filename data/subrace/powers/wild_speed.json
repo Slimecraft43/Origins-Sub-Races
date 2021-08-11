@@ -1,0 +1,9 @@
+{
+    "type": "origins:toggle",
+    "active_by_default": false,
+    "key": {
+        "key": "key.origins.primary_active"
+    },
+    "name": "Wild Speed",
+    "description": "By pressing the primary power key. You are able to enter or exit a state of extreme speed, allowing you to step up blocks and run very quickly, however it is extremely exhausting to stay in this state."
+}

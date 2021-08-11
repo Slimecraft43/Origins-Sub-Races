@@ -1,0 +1,19 @@
+{
+	"powers": [
+		"origins:fall_immunity",
+		"origins:sprint_jump",
+        "subrace:claws",
+        "subrace:wild_speed",
+        "subrace:wild_speed2",
+        "origins:carnivore",
+		"origins:scare_creepers",
+		"origins:cat_vision"
+	],
+	"icon": {
+		"item": "minecraft:vine"
+	},
+	"order": 0,
+	"impact": 2,
+  "name": "Wild Cat",
+  "description": "A breed of Felines that live in the harsh Savannas, being much stronger and tougher than any other Feline Origins, they have adapted to run extremely quick to be able to catch prey easier."
+}
