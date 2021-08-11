@@ -1,0 +1,12 @@
+{
+    "powers": [
+        "origins:nether_spawn"
+    ],
+	"icon": {
+		"item": "minecraft:player_head"
+	},
+	"order": 0,
+	"impact": 3,
+    "name": "Netherstranded",
+    "description": "A kind of humans that has been stranded in the fiery depths of the Nether long ago."
+}
