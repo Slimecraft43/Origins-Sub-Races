@@ -15,6 +15,7 @@
     "key": {
         "key": "key.origins.secondary_active"
     },
+    "cooldown": 300,
     "name": "Boost of the Hunt",
     "description": "Due to your prey commonly using boats to traverse over your home, you have evolved the ability to swim faster for a short time by pressing the secondary power key."
 }

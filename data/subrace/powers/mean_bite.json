@@ -1,0 +1,24 @@
+{
+    "type": "origins:modify_damage_dealt",
+    "damage_condition": {
+        "type": "origins:name",
+        "name": "player"
+    },
+    "modifier": {
+        "name": "Mershark unarmed bonus",
+        "operation": "addition",
+        "value": 3.0
+    },
+    "condition": {
+        "type": "origins:equipped_item",
+        "equipment_slot": "mainhand",
+        "item_condition": {
+            "type": "origins:ingredient",
+            "ingredient": {
+                "item": "minecraft:air"
+            }
+        }
+    },
+    "name": "Mean Bite",
+    "description": "You have deadly teeth making your unarmed attacks deal more damage."
+}

@@ -83,6 +83,18 @@
                 "origins:human",
                 "subrace:netherstranded"
             ]
+        },
+        {
+            "condition": {
+                "type": "origins:origin",
+                "origin": "subrace:merling_family",
+                "layer": "origins:origin"
+            },
+            "origins": [
+                "origins:merling",
+                "subrace:siren",
+                "subrace:mershark"
+            ]
         }
       ],
     "enabled": true,

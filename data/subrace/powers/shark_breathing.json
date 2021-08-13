@@ -1,0 +1,18 @@
+{
+    "type": "origins:damage_over_time",
+    "interval": 10,
+    "onset_delay": 300,
+    "damage": 2.0,
+    "damage_source": {
+    "name": "drown",
+    "bypasses_armor": true
+    },
+    "protection_enchantment": "minecraft:respiration",
+    "protection_effectiveness": 1.0,
+    "condition": {
+        "type": "origins:moving",
+        "inverted": true
+    },
+    "name": "Shark Breathing",
+    "description": "Being part shark forces you to keep moving to keep supplying your body with air, if you stop moving for too long you start taking damage, you can stay still longer using the respiration enchantment."
+}

@@ -1,0 +1,23 @@
+{
+	"powers": [
+		"origins:water_breathing",
+        "subrace:shark_breathing",
+		"origins:water_vision",
+        "subrace:shark_sense",
+		"origins:aqua_affinity",
+		"origins:swim_speed",
+		"subrace:trident_speed",
+        "subrace:mean_bite",
+		"origins:like_water",
+		"origins:aquatic",
+		"origins:conduit_power_on_land",
+		"origins:air_from_potions"
+	],
+	"icon": {
+		"item": "minecraft:trident"
+	},
+	"order": 0,
+	"impact": 3,
+  "name": "Mershark",
+  "description": "A kind of Merlings adapting the traits of sharks, gaining an extreme scent of smell and their strength, however can no longer breathe like a normal merling, requiring to move all the time."
+}

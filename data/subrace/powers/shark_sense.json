@@ -1,0 +1,11 @@
+{
+    "type": "origins:entity_glow",
+    "entity_condition": {
+        "type": "origins:command",
+        "command": "execute at @s if entity @e[distance-..11]",
+        "permission_level": "==",
+        "compare_to": 1
+    },
+    "name": "Enhanced Scent",
+    "description": "You have extremely heightened sense of smell allowing you to know the locations of other entities within 10 blocks of you, even if they're located behind blocks."
+}
