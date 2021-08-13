@@ -38,8 +38,8 @@
         "bar_index": 5
     },
     "key": {
-        "key": "key.origins.secondary.active"
+        "key": "key.origins.secondary_active"
     },
     "name": "Siren's Song",
-    "description": "By pressing the primary power key, you sing a song that is unresistable by other players, inflicting serious debuffs upon those who can hear your song."
+    "description": "By pressing the secondary power key, you sing a song that is unresistable by other players, inflicting serious debuffs upon those who can hear your song."
 }
